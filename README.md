@@ -1,12 +1,12 @@
-🌐 Project Title:
+## 🌐 Project Title:
 BlueChat – Smart Live Chat Landing Page
 
-📝 Description:
+## 📝 Description:
 BlueChat is a modern, responsive landing page designed to promote a smart live chat service for websites. The page highlights the platform's core features, guides users through how it works, and encourages them to sign up with clear calls to action.
 
 This project focuses on clean layout, user experience, and responsiveness across all devices. It also includes smooth scroll animations for enhanced interactivity.
 
-🔧 Technologies Used:
+## 🔧 Technologies Used:
 HTML5 – Structure & semantic layout
 
 CSS3 – Styling & responsive design
@@ -19,7 +19,7 @@ Media Queries – Mobile-friendly design
 
 SEO Meta Tags – Optimized for search and social sharing
 
-📱 Key Features:
+## 📱 Key Features:
 ✨ Clean and professional hero section with CTA
 
 🔧 Feature highlights (Smart Bot, Easy Integration, Real-Time Alerts)
@@ -34,7 +34,7 @@ SEO Meta Tags – Optimized for search and social sharing
 
 🔍 SEO-optimized with OpenGraph and Twitter Cards
 
-🎯 Purpose:
+## 🎯 Purpose:
 This landing page was built to demonstrate front-end development skills, UI/UX design, and interactive web features. It can be adapted for SaaS products, chat platforms, or any customer support tools.
 
 ## 👩‍💻 Developed By
